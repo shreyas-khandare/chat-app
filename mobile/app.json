@@ -23,6 +23,12 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#2c2c2c"
+      },
+      "package": "com.shreyas_dev.realtimechat"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b8426cb6-a460-45b0-9f73-8faba1e70aa6"
       }
     }
   }
